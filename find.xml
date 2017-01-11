@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Softskills'" />
-    <option name="defaultScopeName" value="Project 'Softskills'" />
-    <option name="SEARCH_SCOPE" value="Project 'Softskills'" />
+    <option name="customScope" value="File '/Users/mathiaslarsen/AndroidStudioProjects/Softskills/app/src/main/java/com/grp12/softskilltools/Fragment/DISCFragment.java'" />
+    <option name="defaultScopeName" value="File '/Users/mathiaslarsen/AndroidStudioProjects/Softskills/app/src/main/java/com/grp12/softskilltools/Fragment/DISCFragment.java'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/mathiaslarsen/AndroidStudioProjects/Softskills/app/src/main/java/com/grp12/softskilltools/Fragment/DISCFragment.java'" />
   </component>
 </application>
